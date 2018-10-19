@@ -1,0 +1,2 @@
+Devony 323434 Head1 RArm1 LArm1 Torso1 Locomotor1 Battery1 2345 224.00
+Model2 234434 Head2 RArm2 LArm2 Torso2 Locomotor2 Battery2 234 255.00

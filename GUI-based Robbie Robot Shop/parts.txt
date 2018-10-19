@@ -1,0 +1,5 @@
+Head Head1 1234 123.4 123.45 asdfasd
+Arms Arms1 0987 98.0 234.56 45.6 asdfsd
+Torso Torso 74652 34.56 789.35 2 asdfas
+Locomotor Locomotor1 76349 45.7 345.67 23.4 345.6 asfasdf
+Batteries Battery1 4342 10 12 23 batteryDesc
